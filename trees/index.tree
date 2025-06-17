@@ -1,0 +1,11 @@
+\title{Rui Peixoto}
+\author{rui}
+
+\p{Hi there! Welcome to my forest. You can read more about me [here](rui).}
+
+\p{
+  Academic posts:
+  \ul{
+    \li{[Three perspectives on quivers](0001)}
+  }
+}

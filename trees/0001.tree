@@ -1,0 +1,15 @@
+\date{2025-06-12}
+\author{rui}
+\title{Three perspectives on quivers}
+
+\figure{
+	\tex{
+		\usepackage{tikz}
+		\usepackage{tikz-cd}
+	}{
+		\begin{tikzcd}
+		\bullet
+		\arrow[from=1-1, to=1-1, loop, in=325, out=35, distance=10mm]
+		\end{tikzcd}
+	}
+}
