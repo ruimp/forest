@@ -2,33 +2,16 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>303</fr:anchor>
-    <fr:addr type="user">id-0004</fr:addr>
-    <fr:route>id-0004.xml</fr:route>
-    <fr:title text="Work Experience">Work Experience</fr:title>
+    <fr:anchor>273</fr:anchor>
+    <fr:addr type="user">id-0006</fr:addr>
+    <fr:route>id-0006.xml</fr:route>
+    <fr:title text="Languages">Languages</fr:title>
     <fr:authors />
   </fr:frontmatter>
   <fr:mainmatter>
-    <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
-      <fr:frontmatter>
-        <fr:anchor>248</fr:anchor>
-        <fr:addr type="user">id-0005</fr:addr>
-        <fr:route>id-0005.xml</fr:route>
-        <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
-        <fr:date>
-          <fr:year>2024</fr:year>
-        </fr:date>
-        <fr:date>
-          <fr:year>2025</fr:year>
-        </fr:date>
-        <fr:authors />
-        <fr:meta name="institution">University of Massachusetts, Amherst</fr:meta>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <fr:p>Taught calculus and linear algebra to a diverse group of students in an inclusive and multidisciplinary context.</fr:p>
-      </fr:mainmatter>
-      <fr:backmatter />
-    </fr:tree>
+    <fr:ul><fr:li><fr:strong>English</fr:strong>: proficient (level C2 - 8.5/9 IELTS)</fr:li>
+	<fr:li><fr:strong>Portuguese</fr:strong>: native</fr:li>
+	<fr:li><fr:strong>Spanish</fr:strong>: intermediate</fr:li></fr:ul>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
@@ -39,7 +22,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>304</fr:anchor>
+            <fr:anchor>274</fr:anchor>
             <fr:addr type="user">resume</fr:addr>
             <fr:route>resume.xml</fr:route>
             <fr:title text="Résumé">Résumé</fr:title>

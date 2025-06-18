@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>297</fr:anchor>
+    <fr:anchor>299</fr:anchor>
     <fr:addr type="user">ref-0001</fr:addr>
     <fr:route>ref-0001.xml</fr:route>
     <fr:title text="Thesis: Vertex Superalgebras from Factorization Algebras">Thesis: Vertex Superalgebras from Factorization Algebras</fr:title>
@@ -19,8 +19,7 @@
     <fr:p>
       <fr:link type="external" href="https://github.com/ruimp/thesis/blob/main/Thesis/thesis.pdf">Vertex Superalgebras from Factorization Algebras</fr:link>
     </fr:p>
-    <fr:p>Advisor: <fr:link type="local" href="johnhuerta.xml" addr="johnhuerta" title="John Huerta">John Huerta</fr:link></fr:p>
-    <fr:p>Thesis grade: 20/20</fr:p>
+    <fr:p>Advisor: <fr:link type="local" href="johnhuerta.xml" addr="johnhuerta" title="John Huerta">John Huerta</fr:link>, Thesis grade: 20/20</fr:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
@@ -31,24 +30,24 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>299</fr:anchor>
+            <fr:anchor>301</fr:anchor>
             <fr:addr type="user">id-0002</fr:addr>
             <fr:route>id-0002.xml</fr:route>
-            <fr:title text="2021 - 2023 | Master of Science in Applied Mathematics and Computation">2021 - 2023 | Master of Science in Applied Mathematics and Computation</fr:title>
-            <fr:authors>
-              <fr:author>
-                <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
-              </fr:author>
-            </fr:authors>
-            <fr:meta name="venue">IST, University of Lisbon</fr:meta>
+            <fr:title text="Master of Science in Applied Mathematics and Computation">Master of Science in Applied Mathematics and Computation</fr:title>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:date>
+              <fr:year>2023</fr:year>
+            </fr:date>
+            <fr:authors />
+            <fr:meta name="institution">IST, University of Lisbon</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
-            <fr:p>
-              <fr:link type="external" href="https://tecnico.ulisboa.pt/en/">IST, University of Lisbon</fr:link>
-            </fr:p>
+            <fr:p>GPA 19/20 - highest GPA of graduating year</fr:p>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>243</fr:anchor>
+                <fr:anchor>244</fr:anchor>
                 <fr:addr type="user">ref-0001</fr:addr>
                 <fr:route>ref-0001.xml</fr:route>
                 <fr:title text="Thesis: Vertex Superalgebras from Factorization Algebras">Thesis: Vertex Superalgebras from Factorization Algebras</fr:title>
@@ -65,8 +64,7 @@
                 <fr:p>
                   <fr:link type="external" href="https://github.com/ruimp/thesis/blob/main/Thesis/thesis.pdf">Vertex Superalgebras from Factorization Algebras</fr:link>
                 </fr:p>
-                <fr:p>Advisor: <fr:link type="local" href="johnhuerta.xml" addr="johnhuerta" title="John Huerta">John Huerta</fr:link></fr:p>
-                <fr:p>Thesis grade: 20/20</fr:p>
+                <fr:p>Advisor: <fr:link type="local" href="johnhuerta.xml" addr="johnhuerta" title="John Huerta">John Huerta</fr:link>, Thesis grade: 20/20</fr:p>
               </fr:mainmatter>
               <fr:backmatter />
             </fr:tree>
@@ -84,7 +82,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>301</fr:anchor>
+            <fr:anchor>302</fr:anchor>
             <fr:addr type="user">johnhuerta</fr:addr>
             <fr:route>johnhuerta.xml</fr:route>
             <fr:title text="John Huerta">John Huerta</fr:title>

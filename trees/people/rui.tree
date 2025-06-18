@@ -6,10 +6,7 @@
 
 \p{Hi, I'm Rui. I'm a mathematician with experience in physics and computational modeling looking for interesting problems to solve!}
 
-\p{I'm currently on the \strong{job market}! Please reach out to [rmp@ruimp.com](mailto:rmp@ruimp.com).}
-
 \p{My research interests are on the mathematics of quantum field theory.}
 
-\transclude{id-0001}
+\p{I'm currently on the \strong{job market}! Check out my [résumé](resume) or reach out at [rmp@ruimp.com](mailto:rmp@ruimp.com).}
 
-\transclude{id-0004}

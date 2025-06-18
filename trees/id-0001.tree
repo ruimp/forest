@@ -1,6 +1,7 @@
-\date{2025-06-13}
-\author{rui}
 \title{Education}
+
+\put\transclude/numbered{false}
+\put\transclude/metadata{true}
 
 \transclude{id-0002}
 \transclude{id-0003}

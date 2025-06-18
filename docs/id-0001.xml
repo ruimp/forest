@@ -2,42 +2,33 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>239</fr:anchor>
+    <fr:anchor>267</fr:anchor>
     <fr:addr type="user">id-0001</fr:addr>
     <fr:route>id-0001.xml</fr:route>
     <fr:title text="Education">Education</fr:title>
-    <fr:date>
-      <fr:year>2025</fr:year>
-      <fr:month>6</fr:month>
-      <fr:day>13</fr:day>
-    </fr:date>
-    <fr:authors>
-      <fr:author>
-        <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
-      </fr:author>
-    </fr:authors>
+    <fr:authors />
   </fr:frontmatter>
   <fr:mainmatter>
-    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+    <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
-        <fr:anchor>241</fr:anchor>
+        <fr:anchor>243</fr:anchor>
         <fr:addr type="user">id-0002</fr:addr>
         <fr:route>id-0002.xml</fr:route>
-        <fr:title text="2021 - 2023 | Master of Science in Applied Mathematics and Computation">2021 - 2023 | Master of Science in Applied Mathematics and Computation</fr:title>
-        <fr:authors>
-          <fr:author>
-            <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:meta name="venue">IST, University of Lisbon</fr:meta>
+        <fr:title text="Master of Science in Applied Mathematics and Computation">Master of Science in Applied Mathematics and Computation</fr:title>
+        <fr:date>
+          <fr:year>2021</fr:year>
+        </fr:date>
+        <fr:date>
+          <fr:year>2023</fr:year>
+        </fr:date>
+        <fr:authors />
+        <fr:meta name="institution">IST, University of Lisbon</fr:meta>
       </fr:frontmatter>
       <fr:mainmatter>
-        <fr:p>
-          <fr:link type="external" href="https://tecnico.ulisboa.pt/en/">IST, University of Lisbon</fr:link>
-        </fr:p>
+        <fr:p>GPA 19/20 - highest GPA of graduating year</fr:p>
         <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>243</fr:anchor>
+            <fr:anchor>244</fr:anchor>
             <fr:addr type="user">ref-0001</fr:addr>
             <fr:route>ref-0001.xml</fr:route>
             <fr:title text="Thesis: Vertex Superalgebras from Factorization Algebras">Thesis: Vertex Superalgebras from Factorization Algebras</fr:title>
@@ -54,31 +45,29 @@
             <fr:p>
               <fr:link type="external" href="https://github.com/ruimp/thesis/blob/main/Thesis/thesis.pdf">Vertex Superalgebras from Factorization Algebras</fr:link>
             </fr:p>
-            <fr:p>Advisor: <fr:link type="local" href="johnhuerta.xml" addr="johnhuerta" title="John Huerta">John Huerta</fr:link></fr:p>
-            <fr:p>Thesis grade: 20/20</fr:p>
+            <fr:p>Advisor: <fr:link type="local" href="johnhuerta.xml" addr="johnhuerta" title="John Huerta">John Huerta</fr:link>, Thesis grade: 20/20</fr:p>
           </fr:mainmatter>
           <fr:backmatter />
         </fr:tree>
       </fr:mainmatter>
       <fr:backmatter />
     </fr:tree>
-    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+    <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
-        <fr:anchor>245</fr:anchor>
+        <fr:anchor>246</fr:anchor>
         <fr:addr type="user">id-0003</fr:addr>
         <fr:route>id-0003.xml</fr:route>
-        <fr:title text="2017 - 2021 | Bachelor of Science in Physics ">2017 - 2021 | Bachelor of Science in Physics </fr:title>
-        <fr:authors>
-          <fr:author>
-            <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:meta name="venue">University of Porto</fr:meta>
+        <fr:title text="Bachelor of Science in Physics ">Bachelor of Science in Physics </fr:title>
+        <fr:date>
+          <fr:year>2017</fr:year>
+        </fr:date>
+        <fr:date>
+          <fr:year>2021</fr:year>
+        </fr:date>
+        <fr:authors />
+        <fr:meta name="institution">University of Porto</fr:meta>
       </fr:frontmatter>
       <fr:mainmatter>
-        <fr:p>
-          <fr:link type="external" href="https://www.up.pt/portal/en/">University of Porto</fr:link>
-        </fr:p>
         <fr:p>GPA 18/20 - highest GPA of graduating year</fr:p>
       </fr:mainmatter>
       <fr:backmatter />
@@ -93,58 +82,51 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>247</fr:anchor>
-            <fr:addr type="user">rui</fr:addr>
-            <fr:route>rui.xml</fr:route>
-            <fr:title text="Rui Peixoto">Rui Peixoto</fr:title>
-            <fr:taxon>Person</fr:taxon>
-            <fr:authors />
-            <fr:meta name="position">Mathematician</fr:meta>
-            <fr:meta name="external">https://ruimp.com</fr:meta>
-            <fr:meta name="external">https://github.com/ruimp</fr:meta>
+            <fr:anchor>268</fr:anchor>
+            <fr:addr type="user">resume</fr:addr>
+            <fr:route>resume.xml</fr:route>
+            <fr:title text="Résumé">Résumé</fr:title>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>6</fr:month>
+              <fr:day>18</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
+              </fr:author>
+            </fr:authors>
           </fr:frontmatter>
           <fr:mainmatter>
-            <fr:p>Hi, I'm Rui. I'm a mathematician with experience in physics and computational modeling looking for interesting problems to solve!</fr:p>
-            <fr:p>I'm currently on the <fr:strong>job market</fr:strong>! Please reach out to <fr:link type="external" href="mailto:rmp@ruimp.com">rmp@ruimp.com</fr:link>.</fr:p>
-            <fr:p>My research interests are on the mathematics of quantum field theory.</fr:p>
-            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>248</fr:anchor>
+                <fr:anchor>242</fr:anchor>
                 <fr:addr type="user">id-0001</fr:addr>
                 <fr:route>id-0001.xml</fr:route>
                 <fr:title text="Education">Education</fr:title>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>6</fr:month>
-                  <fr:day>13</fr:day>
-                </fr:date>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
-                  </fr:author>
-                </fr:authors>
+                <fr:authors />
               </fr:frontmatter>
               <fr:mainmatter>
-                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>241</fr:anchor>
+                    <fr:anchor>243</fr:anchor>
                     <fr:addr type="user">id-0002</fr:addr>
                     <fr:route>id-0002.xml</fr:route>
-                    <fr:title text="2021 - 2023 | Master of Science in Applied Mathematics and Computation">2021 - 2023 | Master of Science in Applied Mathematics and Computation</fr:title>
-                    <fr:authors>
-                      <fr:author>
-                        <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
-                      </fr:author>
-                    </fr:authors>
-                    <fr:meta name="venue">IST, University of Lisbon</fr:meta>
+                    <fr:title text="Master of Science in Applied Mathematics and Computation">Master of Science in Applied Mathematics and Computation</fr:title>
+                    <fr:date>
+                      <fr:year>2021</fr:year>
+                    </fr:date>
+                    <fr:date>
+                      <fr:year>2023</fr:year>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="institution">IST, University of Lisbon</fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <fr:p>
-                      <fr:link type="external" href="https://tecnico.ulisboa.pt/en/">IST, University of Lisbon</fr:link>
-                    </fr:p>
+                    <fr:p>GPA 19/20 - highest GPA of graduating year</fr:p>
                     <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                       <fr:frontmatter>
-                        <fr:anchor>243</fr:anchor>
+                        <fr:anchor>244</fr:anchor>
                         <fr:addr type="user">ref-0001</fr:addr>
                         <fr:route>ref-0001.xml</fr:route>
                         <fr:title text="Thesis: Vertex Superalgebras from Factorization Algebras">Thesis: Vertex Superalgebras from Factorization Algebras</fr:title>
@@ -161,31 +143,29 @@
                         <fr:p>
                           <fr:link type="external" href="https://github.com/ruimp/thesis/blob/main/Thesis/thesis.pdf">Vertex Superalgebras from Factorization Algebras</fr:link>
                         </fr:p>
-                        <fr:p>Advisor: <fr:link type="local" href="johnhuerta.xml" addr="johnhuerta" title="John Huerta">John Huerta</fr:link></fr:p>
-                        <fr:p>Thesis grade: 20/20</fr:p>
+                        <fr:p>Advisor: <fr:link type="local" href="johnhuerta.xml" addr="johnhuerta" title="John Huerta">John Huerta</fr:link>, Thesis grade: 20/20</fr:p>
                       </fr:mainmatter>
                       <fr:backmatter />
                     </fr:tree>
                   </fr:mainmatter>
                   <fr:backmatter />
                 </fr:tree>
-                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>245</fr:anchor>
+                    <fr:anchor>246</fr:anchor>
                     <fr:addr type="user">id-0003</fr:addr>
                     <fr:route>id-0003.xml</fr:route>
-                    <fr:title text="2017 - 2021 | Bachelor of Science in Physics ">2017 - 2021 | Bachelor of Science in Physics </fr:title>
-                    <fr:authors>
-                      <fr:author>
-                        <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
-                      </fr:author>
-                    </fr:authors>
-                    <fr:meta name="venue">University of Porto</fr:meta>
+                    <fr:title text="Bachelor of Science in Physics ">Bachelor of Science in Physics </fr:title>
+                    <fr:date>
+                      <fr:year>2017</fr:year>
+                    </fr:date>
+                    <fr:date>
+                      <fr:year>2021</fr:year>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="institution">University of Porto</fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <fr:p>
-                      <fr:link type="external" href="https://www.up.pt/portal/en/">University of Porto</fr:link>
-                    </fr:p>
                     <fr:p>GPA 18/20 - highest GPA of graduating year</fr:p>
                   </fr:mainmatter>
                   <fr:backmatter />
@@ -193,38 +173,82 @@
               </fr:mainmatter>
               <fr:backmatter />
             </fr:tree>
-            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>250</fr:anchor>
+                <fr:anchor>247</fr:anchor>
                 <fr:addr type="user">id-0004</fr:addr>
                 <fr:route>id-0004.xml</fr:route>
                 <fr:title text="Work Experience">Work Experience</fr:title>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
-                  </fr:author>
-                </fr:authors>
+                <fr:authors />
               </fr:frontmatter>
               <fr:mainmatter>
-                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>252</fr:anchor>
+                    <fr:anchor>248</fr:anchor>
                     <fr:addr type="user">id-0005</fr:addr>
                     <fr:route>id-0005.xml</fr:route>
-                    <fr:title text="2024 - 2025 | Teaching Assistant">2024 - 2025 | Teaching Assistant</fr:title>
+                    <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
+                    <fr:date>
+                      <fr:year>2024</fr:year>
+                    </fr:date>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="institution">University of Massachusetts, Amherst</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:p>Taught calculus and linear algebra to a diverse group of students in an inclusive and multidisciplinary context.</fr:p>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>249</fr:anchor>
+                <fr:addr type="user">id-0006</fr:addr>
+                <fr:route>id-0006.xml</fr:route>
+                <fr:title text="Languages">Languages</fr:title>
+                <fr:authors />
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:ul><fr:li><fr:strong>English</fr:strong>: proficient (level C2 - 8.5/9 IELTS)</fr:li>
+	<fr:li><fr:strong>Portuguese</fr:strong>: native</fr:li>
+	<fr:li><fr:strong>Spanish</fr:strong>: intermediate</fr:li></fr:ul>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>250</fr:anchor>
+                <fr:addr type="user">id-0007</fr:addr>
+                <fr:route>id-0007.xml</fr:route>
+                <fr:title text="Publication">Publication</fr:title>
+                <fr:authors />
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>251</fr:anchor>
+                    <fr:addr type="user">ref-0002</fr:addr>
+                    <fr:route>ref-0002.xml</fr:route>
+                    <fr:title text="Environmental Sensitivity of Fabry-Perot Microcavities Induced By Layered Graphene-Dielectric Hybrid Coatings">Environmental Sensitivity of Fabry-Perot Microcavities Induced By Layered Graphene-Dielectric Hybrid Coatings</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2021</fr:year>
+                    </fr:date>
                     <fr:authors>
                       <fr:author>
                         <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
                       </fr:author>
                     </fr:authors>
-                    <fr:meta name="venue">University of Massachusetts</fr:meta>
+                    <fr:meta name="venue">University of Porto</fr:meta>
+                    <fr:meta name="external">https://arxiv.org/abs/2106.01287</fr:meta>
+                    <fr:meta name="external">https://doi.org/10.1103/PhysRevApplied.16.044041</fr:meta>
                   </fr:frontmatter>
-                  <fr:mainmatter>
-                    <fr:p>
-                      <fr:link type="external" href="https://www.umass.edu/">University of Massachusetts Amherst</fr:link>
-                    </fr:p>
-                    <fr:p>Taught calculus and linear algebra to more than 300 students</fr:p>
-                  </fr:mainmatter>
+                  <fr:mainmatter />
                   <fr:backmatter />
                 </fr:tree>
               </fr:mainmatter>

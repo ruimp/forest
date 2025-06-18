@@ -38,8 +38,7 @@
             <fr:p>
               <fr:link type="external" href="https://github.com/ruimp/thesis/blob/main/Thesis/thesis.pdf">Vertex Superalgebras from Factorization Algebras</fr:link>
             </fr:p>
-            <fr:p>Advisor: <fr:link type="local" href="johnhuerta.xml" addr="johnhuerta" title="John Huerta">John Huerta</fr:link></fr:p>
-            <fr:p>Thesis grade: 20/20</fr:p>
+            <fr:p>Advisor: <fr:link type="local" href="johnhuerta.xml" addr="johnhuerta" title="John Huerta">John Huerta</fr:link>, Thesis grade: 20/20</fr:p>
           </fr:mainmatter>
           <fr:backmatter />
         </fr:tree>
