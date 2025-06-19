@@ -1,0 +1,23 @@
+\date{2025-06-19}
+\author{rui}
+\taxon{Example}
+\title{Jordan quiver}
+
+\p{The Jordan quiver has one vertex and one edge. In this case we have
+##{
+	V = \{ a \}, \quad
+	E = \{ v \}, \quad 
+}
+so there is a unique choice of source and target maps #{s, t \colon a \longmapsto v}. It is often unnecessary to label the vertices and edges. Then the Jordan quiver is represented as just a dot and a looping arrow.}
+
+\figure{
+	\tex{
+		\usepackage{tikz}
+		\usepackage{tikz-cd}
+	}{
+		\begin{tikzcd}
+		\bullet
+		\arrow[loop, distance=2em, in=35, out=325]
+		\end{tikzcd}
+	}
+}
