@@ -1,0 +1,23 @@
+\date{2025-06-19}
+\author{rui}
+\title{Quiver as a graph}
+
+\p{We start by the most pedestrian of approaches.}
+
+\transclude{quivers-0004}
+
+\p{Two sets, and two functions, that's it! Moreover, these carry very intuitive meanings. Consider the following example of a quiver.}
+
+\figure{
+	\tex{
+		\usepackage{tikz}
+		\usepackage{tikz-cd}
+	}{
+		\begin{tikzcd}
+		a \arrow[r, "v"] & b
+		\end{tikzcd}
+	}
+}
+
+\p{This consists of vertices #{V = \{a, b\}} and a single edge #{E = \{v\}}.
+The source and target maps encode the information that #{v} has a source #{s(v) = a} and target #{t(v) = b}.}

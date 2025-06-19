@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>272</fr:anchor>
+    <fr:addr type="user">quivers-0001</fr:addr>
+    <fr:route>quivers-0001.xml</fr:route>
+    <fr:title text="Three perspectives on quivers">Three perspectives on quivers</fr:title>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>6</fr:month>
+      <fr:day>12</fr:day>
+    </fr:date>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:anchor>245</fr:anchor>
+        <fr:addr type="user">quivers-0002</fr:addr>
+        <fr:route>quivers-0002.xml</fr:route>
+        <fr:title text="What is a quiver?">What is a quiver?</fr:title>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>6</fr:month>
+          <fr:day>19</fr:day>
+        </fr:date>
+        <fr:authors>
+          <fr:author>
+            <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
+          </fr:author>
+        </fr:authors>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:p><fr:em>A quiver is just a directed graph with an attitude!</fr:em> While fully descriptive, this popular statement is hardly elucidating. It follows a beloved mathematical tradition  of explaining concepts in the most obtuse way possible.</fr:p>
+        <fr:p>My goal today is to do exactly the opposite: I will introduce the simple concept of a quiver in obnoxious detail, from three different perspectives. Buckle up, and join me in discovering in how many ways we can understand a bunch of dots and arrows.</fr:p>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:anchor>247</fr:anchor>
+        <fr:addr type="user">quivers-0003</fr:addr>
+        <fr:route>quivers-0003.xml</fr:route>
+        <fr:title text="Quiver as a graph">Quiver as a graph</fr:title>
+        <fr:date>
+          <fr:year>2025</fr:year>
+          <fr:month>6</fr:month>
+          <fr:day>19</fr:day>
+        </fr:date>
+        <fr:authors>
+          <fr:author>
+            <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
+          </fr:author>
+        </fr:authors>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:p>We start by the most pedestrian of approaches.</fr:p>
+        <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>241</fr:anchor>
+            <fr:addr type="user">quivers-0004</fr:addr>
+            <fr:route>quivers-0004.xml</fr:route>
+            <fr:title text="Quivers I">Quivers I</fr:title>
+            <fr:taxon>Definition</fr:taxon>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>6</fr:month>
+              <fr:day>19</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>A quiver consists of:</fr:p>
+            <fr:ul><fr:li>a set <fr:tex display="inline"><![CDATA[V]]></fr:tex> of <fr:em>vertices</fr:em>;</fr:li>
+	<fr:li>a set <fr:tex display="inline"><![CDATA[E]]></fr:tex> of <fr:em>edges</fr:em>;</fr:li>
+	<fr:li>a pair of functions <fr:tex display="inline"><![CDATA[s, t \colon  E \rightarrow  V]]></fr:tex> named <fr:em>source</fr:em> and <fr:em>target</fr:em> maps.</fr:li></fr:ul>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:p>Two sets, and two functions, that's it! Moreover, these carry very intuitive meanings. Consider the following example of a quiver.</fr:p>
+        <fr:figure>
+          <fr:resource hash="2e8d29a861d18feb7f21b0c9c0c0b65e">
+            <fr:resource-content>
+              <fr:img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPCEtLSBUaGlzIGZpbGUgd2FzIGdlbmVyYXRlZCBieSBkdmlzdmdtIDMuNC4zIC0tPgo8c3ZnIHZlcnNpb249JzEuMScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluaycgd2lkdGg9Jzc1LjkxNDgzOXB0JyBoZWlnaHQ9JzIxLjMxNTlwdCcgdmlld0JveD0nLTcyIC03MiA1MC42MDk4OTMgMTQuMjEwNic+CjxzdHlsZSB0eXBlPSd0ZXh0L2Nzcyc+CjwhW0NEQVRBW0Bmb250LWZhY2V7Zm9udC1mYW1pbHk6Y21taTc7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQU53QUFvQUFBQUFBK0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRU1BQUFCZ2haRjA0bU50WVhBQUFBRTRBQUFBS1FBQUFEUUFEQURKWjJ4NVpnQUFBV1FBQUFDMUFBQUF2TDYzNXkxb1pXRmtBQUFDSEFBQUFDa0FBQUEyWWQxQ3VXaG9aV0VBQUFKSUFBQUFId0FBQUNRRlZRSHZhRzEwZUFBQUFtZ0FBQUFJQUFBQUNBVVBBREJzYjJOaEFBQUNjQUFBQUFZQUFBQUdBRjRBQUcxaGVIQUFBQUo0QUFBQUZ3QUFBQ0FBQkFBOGJtRnRaUUFBQXBBQUFBRFBBQUFCT1BOaktxZHdiM04wQUFBRFlBQUFBQkFBQUFBZ0FBTUFBWGphWTJCbWFtZWN3TURLd01BMGkrbnNQeEdHZmhETitJYnhEWU14SXljREVMQXh3QUVqQXhKSUtTNUxCMHFXTVpReE0vd0g4cGtoMGtocS9nT0ZBZUovRFdNQWVOcGpZR0JnWW1CZ1lBWmlFU0RKQ0taWkdCU0FOQXNRZ3ZobC8vOUR5UC9kWUQ0REFGYndCdElBQUFCNDJoWEt5d3FDUUFCRzRmbW5uQ0cwaTVUT0tFWGw0Q1Vra1NpMUVpT0NDTm9WdFl0ZW9uZnNpVnFYTFQvT0lTRHA5ME1WM21SRENBYThBODQ0QzhJZ3k3Tjh5YjBhS2d6Q1pmNzN3aGFzUGl3bWJQRjNscUJ1RmZMTXBrb2E4V2gxTFo4TnlLa0paN0x0dzlRWmhHR3FLaXFBOW1oSWpkNTZIL3NEQjdMZGJjQ3p0Qml2K1MxNStLY215ck43dnlqUHg2N3FVZHJxcE1KS3REU1M0K1BUTTVYU3RISlJITFl6blV0ckN1b1M4Z052cWhoNkFBQUFlTnBqWUdSZ1lBRGltRnQvbk9QNWJiNHlNTE13WUlML1g1bU9NUjRITWpnWW1FQjhBT0VHQjZ3QUFBQjQybU5nWkdCZ1p2alB3TURBZEl6QmdFR05TWmtCS0lJQ21BQThWUUpLQUFMR0FBQUNTUUF3QUFBQUFBQmVBQUI0Mm1OZ1pHQmdZR0t3WmdEUkRGQVNDUUFBQm1BQVFRQjQyazJNUFcvQ01CQ0duNmdKVXNQUXBlclFvZlhBSElFU2lZMkZnWW1WaVFXd1FSbHNJeWRFUWtLTS9PNGVyZ2RPOHVsNVA4NUF5WjJNNTJSOHhQMmNuRUxVUHhlTStVdzhFdldidU9TYkNXOWsrYnM0UHl3UzU1SnNFeGQ4Y1V3OEV2K1d1S1Roc2ZUMmZPbE5VR3V2VFhBSGE5djV4b1N1OVU3TnFtblVLK05NMlBWR3EvMVY2YUh0aHBOVmRkVlVOVXM4bGpNWGVnd0J4Vm9jSGRseGtNelNNbWNUblU3WWk2K1lVVEY5eVZlU3U5alp4WiswZFBaY1pXc0dhWFN5VDlKVjFITFp5S3YvQU0yeEwvOEFlTnBqWUdaQUJvd01hQUFBQUk0QUJRPT0pIGZvcm1hdCgnd29mZicpO30KQGZvbnQtZmFjZXtmb250LWZhbWlseTpjbW1pMTA7c3JjOnVybChkYXRhOmFwcGxpY2F0aW9uL3gtZm9udC13b2ZmO2Jhc2U2NCxkMDlHUmdBQkFBQUFBQVFnQUFvQUFBQUFCTGdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQlBVeTh5QUFBQTlBQUFBRU1BQUFCZ2hYeDBYMk50WVhBQUFBRTRBQUFBTEFBQUFEUUFEQUMxWjJ4NVpnQUFBV1FBQUFGaUFBQUJpRFE3NEcxb1pXRmtBQUFDeUFBQUFDa0FBQUEyWVkxRHQyaG9aV0VBQUFMMEFBQUFId0FBQUNRRktRR0lhRzEwZUFBQUF4UUFBQUFNQUFBQURBWktBRmxzYjJOaEFBQURJQUFBQUFnQUFBQUlBR3dBeEcxaGVIQUFBQU1vQUFBQUdBQUFBQ0FBQmdCRWJtRnRaUUFBQTBBQUFBRFVBQUFCUHBrVmRjbHdiM04wQUFBRUZBQUFBQXdBQUFBZ0FBTUFBSGphWTJCbWttQ2N3TURLd01BMGkrbnNQeEdHZmhETitJYnhEWU14SXljREVMQXh3QUVqQXhKSUtTNUxCMG9tTWlReE0vd0g4cGtoMGtocS9nT0ZBYlZkRE1zQWVOcGpZR0JnWW1CZ1lBWmlFU0RKQ0taWkdCU0FOQXNRZ3ZoSi8vOER5Y1QvLy84dkFQTVpBRlZJQnI1NDJoMlB6VXJEUUFDRWQzYlRKdlluTVcyejZSOXAycTJwdFpCVTB5WlVTbHVxOWFkNlVoRUVmeEQwQ1FTUFhud2FuMEd2SW9KUDRHdUkxK29xQThNTWM1bVBVTkwrK2NJQ3I2UkRwb1JnaEpqYkJ0UEJiUm1qR3JpbEpxVjh0SFMwcEVmeG54eXdNYUlBWHFzaFZ3UFN1TTNsZ2dkcTU2cFVDekpwaXJUbGlBek5xb2tsVGJmN3pUQVp6TXpoQWRpbW1ac2RDVC9xTVJpSzZidWprcGxUbG9HcXg0ZU5OQjdOQ2xCcHZIUjkzWFZBNTZGRlFiV1ZlcTNQMEtuM3l4Um44OXRqWHRobGFDNCszMDFOYUVMcCtkNVdkcnJxamluY3RReWhwUHZ6alNmNlJselNKeVRQSkkwRCsvK3FwT2hGY1g0RVR5UzlLSXlqa052c2o4SkJ2UEhQMS9PRUovdjNZWEhZSE8zTHcySjJOTmlEbXJwSXdCUkZaSk9UZGlGRnIzaWFVYlRMdFVuWnlKdWlhazI4SmZxOCtDZzFnZlBkbTVQT0RzUHB2TlJld1YxQlQ3R3FxaXBRRnZlWGdTVUdYY1JoZlh2N09rQmpQVXQrQVlJbE9aTUFBSGphWTJCa1lHQUFZcFZmMmNMeC9EWmZHWmhaR0REQi84OU1aVXpIZ1F3T0JpWVFId0MzZUFhQ0FBQUFlTnBqWUdSZ1lHYjR6OERBd0ZUR29NbkF4L2lQQVNpQ0FwZ0JRaG9DdGdBQ2RnQUFBaDBBS1FHM0FEQUFBQUFBQUd3QXhIamFZMkJrWUdCZ1puQm1ZR0lBQVVZR05BQUFCMW9BUzNqYVRZNnhhc013RkVXUHFXT0lFK2pVRGgyQ3BvN0d4djZBUW9aTVdUTVdra2dFRnlRRjJURmtLZjJBZkhSZUZBMTlRbytqODY2RWdKSmZNaDZWOFJyN28zSUtPVDE1eG9LM3hJVXNsYmprZzA5ZXlQSzVtQlZmaVhPV2ZDZWU4YzVQNGtMOFgrS1NqdHZhMi9ObE5FRnR2VGJCSGEzdG0zcG53dEI3cDVxcWZvcU5jU2JzUjZQVjRhcjAxQS9UeWFxMjZxcVdOUjdMbVFzamhpQS8yNHJSa1IxSG1WbDZHbXAyMFExeThqSlI0aXF4L3hNYlNiaVkyc2ZYdEtRT1hLVnJKc2tNMGsrU1ZyUnl0NVBkM2dIaUZERERlTnBqWUdiQUN3QUFmUUFFKSBmb3JtYXQoJ3dvZmYnKTt9CnRleHQuZjAge2ZvbnQtZmFtaWx5OmNtbWkxMDtmb250LXNpemU6OS45NjI2NHB4fQp0ZXh0LmYxIHtmb250LWZhbWlseTpjbW1pNztmb250LXNpemU6Ni45NzM4NDhweH0KXV0+Cjwvc3R5bGU+CjxnIGlkPSdwYWdlMSc+CjxnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTQ2LjY5NTA1NywtNjQuODk0NzA2KXNjYWxlKDAuOTk2MjY0LC0wLjk5NjI2NCknPgo8ZyBmaWxsPScjMDAwJyBzdHJva2U9JyMwMDAnPgo8ZyBzdHJva2Utd2lkdGg9JzAuNCc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0yNS4zOTk4NCwtMy40NzIyMSknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTQ2LjY5NTA1NywtNjQuODk0NzA2KXNjYWxlKC0xLC0xKSc+CjxnIHN0cm9rZT0nIzAwMCcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyB0cmFuc2Zvcm09J3RyYW5zbGF0ZSgtMzkuNzcyNTMsLTY0Ljg5NDcwNilzY2FsZSgwLjk5NjI2NCwtMC45OTYyNjQpJz4KPGcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTIuNjQyOTQsMC4wKSc+CjxnIHN0cm9rZT0nbm9uZScgdHJhbnNmb3JtPSdzY2FsZSgtMS4wMDM3NSwxLjAwMzc1KXRyYW5zbGF0ZSgtMzkuNzcyNTMsLTY0Ljg5NDcwNilzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YwJyB4PSctMzkuNzcyNTMnIHk9Jy02NC44OTQ3MDYnPmE8L3RleHQ+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8ZyBzdHJva2U9JyMwMDAnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgdHJhbnNmb3JtPSd0cmFuc2xhdGUoLTIuNTEyNDI5LC02NC44OTQ3MDYpc2NhbGUoMC45OTYyNjQsLTAuOTk2MjY0KSc+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0yLjE0NTgzLDAuMCknPgo8ZyBzdHJva2U9J25vbmUnIHRyYW5zZm9ybT0nc2NhbGUoLTEuMDAzNzUsMS4wMDM3NSl0cmFuc2xhdGUoLTIuNTEyNDI5LC02NC44OTQ3MDYpc2NhbGUoLTEsLTEpJz4KPGcgZmlsbD0nIzAwMCc+CjxnIHN0cm9rZT0nbm9uZSc+Cjx0ZXh0IGNsYXNzPSdmMCcgeD0nLTIuNTEyNDI5JyB5PSctNjQuODk0NzA2Jz5iPC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjxnIHN0cm9rZS13aWR0aD0nMC4zOTk5OCc+CjxwYXRoIGQ9J00tMTEuMzAyODctLjk3MjIxSDExLjg5NzE0JyBmaWxsPSdub25lJy8+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKDEyLjA5NzEyLC0wLjk3MjIxKSc+CjxnIHN0cm9rZS1kYXNoYXJyYXk9J25vbmUnIHN0cm9rZS1kYXNob2Zmc2V0PScwLjAnPgogPGcgc3Ryb2tlLWxpbmVjYXA9J3JvdW5kJz4KIDxnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPgogPHBhdGggZD0nTS0yLjA3OTg4IDIuMzk5ODZDLTEuNjk5ODkgLjk1OTkyLS44NTMxMyAuMjc5OTggMCAwQy0uODUzMTMtLjI3OTk4LTEuNjk5ODktLjk1OTkyLTIuMDc5ODgtMi4zOTk4NicgZmlsbD0nbm9uZScvPgogPC9nPgogPC9nPgogPC9nPgo8L2c+CjxnIHRyYW5zZm9ybT0ndHJhbnNsYXRlKC0xLjYyODQ4LDEuMzgwNTQpJz4KPGcgc3Ryb2tlPSdub25lJyB0cmFuc2Zvcm09J3NjYWxlKC0xLjAwMzc1LDEuMDAzNzUpdHJhbnNsYXRlKC00Ni42OTUwNTcsLTY0Ljg5NDcwNilzY2FsZSgtMSwtMSknPgo8ZyBmaWxsPScjMDAwJz4KPGcgc3Ryb2tlPSdub25lJz4KPHRleHQgY2xhc3M9J2YxJyB4PSctNDYuNjk1MDU3JyB5PSctNjQuODk0NzA2Jz52PC90ZXh0Pgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L2c+CjwvZz4KPC9nPgo8L3N2Zz4=" />
+            </fr:resource-content>
+            <fr:resource-source type="latex" part="preamble"><![CDATA[
+		\usepackage {tikz}
+		\usepackage {tikz-cd}
+	]]></fr:resource-source>
+            <fr:resource-source type="latex" part="body"><![CDATA[
+		\begin {tikzcd}
+		a \arrow [r, "v"] & b
+		\end {tikzcd}
+	]]></fr:resource-source>
+          </fr:resource>
+        </fr:figure>
+        <fr:p>This consists of vertices <fr:tex display="inline"><![CDATA[V = \{a, b\}]]></fr:tex> and a single edge <fr:tex display="inline"><![CDATA[E = \{v\}]]></fr:tex>.
+The source and target maps encode the information that <fr:tex display="inline"><![CDATA[v]]></fr:tex> has a source <fr:tex display="inline"><![CDATA[s(v) = a]]></fr:tex> and target <fr:tex display="inline"><![CDATA[t(v) = b]]></fr:tex>.</fr:p>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Backlinks">Backlinks</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>274</fr:anchor>
+            <fr:addr type="user">index</fr:addr>
+            <fr:route>index.xml</fr:route>
+            <fr:title text="Rui Peixoto">Rui Peixoto</fr:title>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">Rui Peixoto</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>Hi there! Welcome to my forest. You can read more about me <fr:link type="local" href="rui.xml" addr="rui" title="Rui Peixoto">here</fr:link>.</fr:p>
+            <fr:p>Academic posts:
+  <fr:ul><fr:li><fr:link type="local" href="quivers-0001.xml" addr="quivers-0001" title="Three perspectives on quivers">Three perspectives on quivers</fr:link></fr:li></fr:ul></fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,0 +1,7 @@
+\date{2025-06-19}
+\author{rui}
+\title{What is a quiver?}
+
+\p{\em{A quiver is just a directed graph with an attitude!} While fully descriptive, this popular statement is hardly elucidating. It follows a beloved mathematical tradition  of explaining concepts in the most obtuse way possible.}
+
+\p{My goal today is to do exactly the opposite: I will introduce the simple concept of a quiver in obnoxious detail, from three different perspectives. Buckle up, and join me in discovering in how many ways we can understand a bunch of dots and arrows.}

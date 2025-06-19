@@ -1,0 +1,12 @@
+\date{2025-06-19}
+\author{rui}
+\taxon{Definition}
+\title{Quivers I}
+
+\p{A quiver consists of:}
+
+\ul{
+	\li{a set #{V} of \em{vertices};}
+	\li{a set #{E} of \em{edges};}
+	\li{a pair of functions #{s, t \colon E \rightarrow V} named \em{source} and \em{target} maps.}
+}
