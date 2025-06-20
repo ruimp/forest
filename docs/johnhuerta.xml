@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>296</fr:anchor>
+    <fr:anchor>300</fr:anchor>
     <fr:addr type="user">johnhuerta</fr:addr>
     <fr:route>johnhuerta.xml</fr:route>
     <fr:title text="John Huerta">John Huerta</fr:title>
@@ -21,7 +21,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>297</fr:anchor>
+            <fr:anchor>301</fr:anchor>
             <fr:addr type="user">ref-0001</fr:addr>
             <fr:route>ref-0001.xml</fr:route>
             <fr:title text="Thesis: Vertex Superalgebras from Factorization Algebras">Thesis: Vertex Superalgebras from Factorization Algebras</fr:title>

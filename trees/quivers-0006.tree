@@ -1,1 +1,41 @@
-\date{2025-06-19}
+\date{2025-06-20}
+\author{rui}
+\taxon{Definition}
+\title{Morphism of quivers I}
+
+\p{Let #{\vec{Q}_1 = (V_1, E_1, s_1, t_1)} and #{\vec{Q}_2 = (V_2, E_2, s_2, t_2)} be quivers. A morphism of quivers
+##{f = (f_V, f_E) \colon \vec{Q}_1 \rightarrow \vec{Q}_2}
+consists of two functions:
+\ul{
+	\li{a mapping of vertices #{f_V \colon V_1 \rightarrow V_2};}
+	\li{a mapping of edges #{f_E \colon E_1 \rightarrow E_2};}
+}
+such that the diagrams commutes
+
+\figure{
+	\tex{
+		\usepackage{tikz}
+		\usepackage{tikz-cd}
+	}{
+		\begin{tikzcd}
+		E_1 \arrow[d, "s_1"] \arrow[r, "f_E"] &
+		E_2 \arrow[d, "s_2"] \\
+		V_1 \arrow[r, "f_V"] &
+		V_2
+		\end{tikzcd}, \quad
+		\begin{tikzcd}
+		E_1 \arrow[d, "t_1"] \arrow[r, "f_E"] &
+		E_2 \arrow[d, "t_2"] \\
+		V_1 \arrow[r, "f_V"] &
+		V_2
+		\end{tikzcd}.
+	}
+}
+
+\p{In words, vertices are mapped to vertices and edges to edges, in a way that respects the source and target maps}
+
+##{
+	s_2 \circ f_E = f_V \circ s_1, \quad
+	t_2 \circ f_E = f_V \circ t_1.
+}
+}

@@ -25,3 +25,7 @@ The source and target maps encode the information that #{v} has a source #{s(v) 
 \p{Equivalently, we could define edges #{v \in E} as ordered pairs #{(a, b) \in V \times V}, with entries the source and target vertices, respectively.}
 
 \transclude{quivers-0005}
+
+\p{At this point, the reader might be wondering why such a simple definition warrants analysis from more than one point of view. This will become clear once we work through the definition of a morphism of quivers.}
+
+\transclude{quivers-0006}

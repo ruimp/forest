@@ -3,7 +3,7 @@
 \taxon{Definition}
 \title{Quivers I}
 
-\p{A quiver consists of:}
+\p{A quiver #{\vec{Q} = (V, E, s, t)} consists of:}
 
 \ul{
 	\li{a set #{V} of \em{vertices};}
