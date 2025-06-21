@@ -8,7 +8,7 @@
 	V = \{ a \}, \quad
 	E = \{ v \}, \quad 
 }
-so there is a unique choice of source and target maps #{s, t \colon a \longmapsto v}. It is often unnecessary to label the vertices and edges. Then the Jordan quiver is represented as just a dot and a looping arrow.}
+so there is a unique choice of source and target maps #{s, t \colon v \longmapsto a}. If we are not bothered to label the vertices and edges, we can represent the Jordan quiver as in the diagram}
 
 \figure{
 	\tex{
@@ -18,6 +18,6 @@ so there is a unique choice of source and target maps #{s, t \colon a \longmapst
 		\begin{tikzcd}
 		\bullet
 		\arrow[loop, distance=2em, in=35, out=325]
-		\end{tikzcd}
+		\end{tikzcd}.
 	}
 }
