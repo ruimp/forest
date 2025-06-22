@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>310</fr:anchor>
+    <fr:anchor>309</fr:anchor>
     <fr:addr type="user">index</fr:addr>
     <fr:route>index.xml</fr:route>
     <fr:title text="Rui Peixoto">Rui Peixoto</fr:title>
@@ -26,7 +26,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>312</fr:anchor>
+            <fr:anchor>311</fr:anchor>
             <fr:addr type="user">quivers-0001</fr:addr>
             <fr:route>quivers-0001.xml</fr:route>
             <fr:title text="Three perspectives on quivers">Three perspectives on quivers</fr:title>
@@ -44,7 +44,7 @@
           <fr:mainmatter>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>258</fr:anchor>
+                <fr:anchor>257</fr:anchor>
                 <fr:addr type="user">quivers-0002</fr:addr>
                 <fr:route>quivers-0002.xml</fr:route>
                 <fr:title text="What is a quiver?">What is a quiver?</fr:title>
@@ -67,7 +67,7 @@
             </fr:tree>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>260</fr:anchor>
+                <fr:anchor>259</fr:anchor>
                 <fr:addr type="user">quivers-0003</fr:addr>
                 <fr:route>quivers-0003.xml</fr:route>
                 <fr:title text="Quiver as a digraph">Quiver as a digraph</fr:title>
@@ -86,7 +86,7 @@
                 <fr:p>We start by the most pedestrian of approaches: quivers as directed graphs.</fr:p>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>244</fr:anchor>
+                    <fr:anchor>243</fr:anchor>
                     <fr:addr type="user">quivers-0004</fr:addr>
                     <fr:route>quivers-0004.xml</fr:route>
                     <fr:title text="Quivers I">Quivers I</fr:title>
@@ -132,7 +132,7 @@ The source and target maps encode the information that <fr:tex display="inline">
                 <fr:p>Equivalently, we could define edges <fr:tex display="inline"><![CDATA[v \in  E]]></fr:tex> as ordered pairs <fr:tex display="inline"><![CDATA[(a, b) \in  V \times  V]]></fr:tex>, with entries the source and target vertices, respectively.</fr:p>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>246</fr:anchor>
+                    <fr:anchor>245</fr:anchor>
                     <fr:addr type="user">quivers-0005</fr:addr>
                     <fr:route>quivers-0005.xml</fr:route>
                     <fr:title text="Jordan quiver">Jordan quiver</fr:title>
@@ -175,7 +175,7 @@ so there is a unique choice of source and target maps <fr:tex display="inline"><
                 <fr:p>At this point, the reader might be wondering why such a simple definition warrants analysis from more than one point of view. This will become clear once we work through the definition of a morphism of quivers.</fr:p>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>248</fr:anchor>
+                    <fr:anchor>247</fr:anchor>
                     <fr:addr type="user">quivers-0006</fr:addr>
                     <fr:route>quivers-0006.xml</fr:route>
                     <fr:title text="Morphism of quivers I">Morphism of quivers I</fr:title>
@@ -223,6 +223,9 @@ such that the diagrams commutes
                   </fr:mainmatter>
                   <fr:backmatter />
                 </fr:tree>
+                <fr:p>
+                  <fr:strong>INCOMPLETE</fr:strong>
+                </fr:p>
               </fr:mainmatter>
               <fr:backmatter />
             </fr:tree>
@@ -231,7 +234,7 @@ such that the diagrams commutes
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>314</fr:anchor>
+            <fr:anchor>313</fr:anchor>
             <fr:addr type="user">rui</fr:addr>
             <fr:route>rui.xml</fr:route>
             <fr:title text="Rui Peixoto">Rui Peixoto</fr:title>

@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>298</fr:anchor>
+    <fr:anchor>297</fr:anchor>
     <fr:addr type="user">id-0001</fr:addr>
     <fr:route>id-0001.xml</fr:route>
     <fr:title text="Education">Education</fr:title>
@@ -11,7 +11,7 @@
   <fr:mainmatter>
     <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
-        <fr:anchor>274</fr:anchor>
+        <fr:anchor>273</fr:anchor>
         <fr:addr type="user">id-0002</fr:addr>
         <fr:route>id-0002.xml</fr:route>
         <fr:title text="Master of Science in Applied Mathematics and Computation">Master of Science in Applied Mathematics and Computation</fr:title>
@@ -28,7 +28,7 @@
         <fr:p>GPA 19/20 - highest GPA of graduating year</fr:p>
         <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>275</fr:anchor>
+            <fr:anchor>274</fr:anchor>
             <fr:addr type="user">ref-0001</fr:addr>
             <fr:route>ref-0001.xml</fr:route>
             <fr:title text="Thesis: Vertex Superalgebras from Factorization Algebras">Thesis: Vertex Superalgebras from Factorization Algebras</fr:title>
@@ -54,7 +54,7 @@
     </fr:tree>
     <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
-        <fr:anchor>277</fr:anchor>
+        <fr:anchor>276</fr:anchor>
         <fr:addr type="user">id-0003</fr:addr>
         <fr:route>id-0003.xml</fr:route>
         <fr:title text="Bachelor of Science in Physics ">Bachelor of Science in Physics </fr:title>
@@ -82,7 +82,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>299</fr:anchor>
+            <fr:anchor>298</fr:anchor>
             <fr:addr type="user">resume</fr:addr>
             <fr:route>resume.xml</fr:route>
             <fr:title text="Résumé">Résumé</fr:title>
@@ -100,7 +100,7 @@
           <fr:mainmatter>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>273</fr:anchor>
+                <fr:anchor>272</fr:anchor>
                 <fr:addr type="user">id-0001</fr:addr>
                 <fr:route>id-0001.xml</fr:route>
                 <fr:title text="Education">Education</fr:title>
@@ -109,7 +109,7 @@
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>274</fr:anchor>
+                    <fr:anchor>273</fr:anchor>
                     <fr:addr type="user">id-0002</fr:addr>
                     <fr:route>id-0002.xml</fr:route>
                     <fr:title text="Master of Science in Applied Mathematics and Computation">Master of Science in Applied Mathematics and Computation</fr:title>
@@ -126,7 +126,7 @@
                     <fr:p>GPA 19/20 - highest GPA of graduating year</fr:p>
                     <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                       <fr:frontmatter>
-                        <fr:anchor>275</fr:anchor>
+                        <fr:anchor>274</fr:anchor>
                         <fr:addr type="user">ref-0001</fr:addr>
                         <fr:route>ref-0001.xml</fr:route>
                         <fr:title text="Thesis: Vertex Superalgebras from Factorization Algebras">Thesis: Vertex Superalgebras from Factorization Algebras</fr:title>
@@ -152,7 +152,7 @@
                 </fr:tree>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>277</fr:anchor>
+                    <fr:anchor>276</fr:anchor>
                     <fr:addr type="user">id-0003</fr:addr>
                     <fr:route>id-0003.xml</fr:route>
                     <fr:title text="Bachelor of Science in Physics ">Bachelor of Science in Physics </fr:title>
@@ -175,7 +175,7 @@
             </fr:tree>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>278</fr:anchor>
+                <fr:anchor>277</fr:anchor>
                 <fr:addr type="user">id-0004</fr:addr>
                 <fr:route>id-0004.xml</fr:route>
                 <fr:title text="Work Experience">Work Experience</fr:title>
@@ -184,7 +184,7 @@
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>279</fr:anchor>
+                    <fr:anchor>278</fr:anchor>
                     <fr:addr type="user">id-0005</fr:addr>
                     <fr:route>id-0005.xml</fr:route>
                     <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
@@ -207,7 +207,7 @@
             </fr:tree>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>280</fr:anchor>
+                <fr:anchor>279</fr:anchor>
                 <fr:addr type="user">id-0006</fr:addr>
                 <fr:route>id-0006.xml</fr:route>
                 <fr:title text="Languages">Languages</fr:title>
@@ -222,7 +222,7 @@
             </fr:tree>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>281</fr:anchor>
+                <fr:anchor>280</fr:anchor>
                 <fr:addr type="user">id-0007</fr:addr>
                 <fr:route>id-0007.xml</fr:route>
                 <fr:title text="Publication">Publication</fr:title>
@@ -231,7 +231,7 @@
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>282</fr:anchor>
+                    <fr:anchor>281</fr:anchor>
                     <fr:addr type="user">ref-0002</fr:addr>
                     <fr:route>ref-0002.xml</fr:route>
                     <fr:title text="Environmental Sensitivity of Fabry-Perot Microcavities Induced By Layered Graphene-Dielectric Hybrid Coatings">Environmental Sensitivity of Fabry-Perot Microcavities Induced By Layered Graphene-Dielectric Hybrid Coatings</fr:title>
